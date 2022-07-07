@@ -1,0 +1,52 @@
+
+*{
+    font-family: monospace;
+}
+h3{
+    color: black;
+}
+.box{
+    width: 400px;
+    background-color: goldenrod;
+    padding: 1em;
+    margin: auto;
+    color: white;
+    border-radius: 5px;
+}
+.title{
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.odin{
+    color: cyan;
+    
+}
+li{
+    color: aliceblue;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+
+button a{
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+    
+}
+button{
+    background-color: black;
+    border-radius: 15px;
+    margin: 5px;
+    padding: 1em;
+}
+.btn_wrapper{
+    display: flex;
+    justify-content: center;
+}
+.btn{
+    text-align: center;
+}
